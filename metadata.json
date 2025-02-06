@@ -1,0 +1,45 @@
+{
+  "id": "I0EBD5B13",
+  "title": {
+    "en": "Dispelling Wrong Views, A Commentary on Entering the Middle Way",
+    "bo": "འཇུག་འགྲེལ་ལྟ་བ་ངན་སེལ།"
+  },
+  "author": {
+    "en": "None",
+    "bo": "གོ་རམས་པ་བསོད་ནམས་སེངྒེ།"
+  },
+  "imported": "2025-02-06T11:04:07.119364",
+  "source": "https://library.bdrc.io/show/bdr:WA0XL73D3D6F6670D?tabs=bdr:MW1PD1725_73D3D6",
+  "toolkit_version": "0.0.1",
+  "parser": "DocxNumberListCommentaryParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "presentation": {
+      "en": ""
+    },
+    "usage_title": {
+      "en": "Dispelling Wrong Views, A Commentary on Entering the Middle Way",
+      "bo": "འཇུག་འགྲེལ་ལྟ་བ་ངན་སེལ།"
+    },
+    "long_title": {
+      "en": "Dispelling Wrong Views, An Analysis of the Structural Outline and Difficult Points in Each Section of Entering the Middle Way",
+      "bo": "དབུ་མ་ལ་འཇུག་པའི་དཀྱུས་ཀྱི་ས་བཅད་པ་དང་གཞུང་སོ་སོའི་དཀའ་བའི་གནས་ལ་དཔྱད་པ་ལྟ་བ་ངན་སེལ།"
+    },
+    "commentary_of": "I0EA4B6C3",
+    "document_id": "1GZKYZtz2hGSoIMFflzyiUPmiSDf5PCSUDxzANWD-ZSo",
+    "commentary_alignments": [
+      {
+        "source": "I0EA4B6C3/layers/FE4D/Tibetan_Segment-E526.json",
+        "target": "I0EBD5B13/layers/B2C4/Meaning_Segment-7274.json"
+      }
+    ]
+  },
+  "bases": [],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
